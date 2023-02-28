@@ -1,0 +1,29 @@
+{
+  "name": "Lee Robinson",
+  "avatar": "https://avatars.githubusercontent.com/u/32028862?v=4",
+  "links": [
+    {
+      "title": "My Personal Site",
+      "href": "https://avatars.githubusercontent.com/u/32028862?v=4",
+      "image": "https://avatars.githubusercontent.com/u/32028862?v=4"
+    },
+    {
+      "title": "Vercel Website",
+      "href": "https://vercel.com"
+    },
+    {
+      "title": "NEXTJS Website",
+      "href": "https://nextjs.org"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/shonenxnaifu"
+    },
+    {
+      "title": "GitHub",
+      "href": "https://github.com/shonenxnaifu"
+    }
+  ]
+}
